@@ -1,4 +1,5 @@
 .htaccess
+nbproject
 /config.php
 admin/config.php
 
